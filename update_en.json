@@ -1,16 +1,16 @@
 {
-  "newestVersion": "2.4.0",
+  "newestVersion": "2.4.1",
   "versions": [
     {
-      "version": "2.4.0",
+      "version": "2.4.1",
       "filename": "app-release",
       "description": "Typhoon TV Minor update! Disney+ Movie/Tv Categories;Will be updated in following days!."
     }
   ],
-  "betaVersion": "2.1.2",
+  "betaVersion": "2.4.1",
   "betaVersions": [
     {
-      "version": "2.1.2",
+      "version": "2.4.1",
       "filename": "beta-app-release",
       "description": "Added new Provider(RD and Free);as Well aded new Resolvers!"
     }
